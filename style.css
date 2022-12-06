@@ -1,0 +1,80 @@
+/* buka body */
+.body {
+    padding: 50px;
+    height: 744px;
+}
+/* tutup body */
+
+
+/* buka body index*/
+.body-index {
+    padding: 50px;
+    text-align: center;
+    height: 744px;
+}
+/* tutup body index*/
+
+
+/* buka body gallery*/
+.body-gal{
+    text-align: center;
+    padding: 90px;
+    height: 744px;
+}
+.img-gal {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    height: 120px;
+  }
+  
+  img-gal:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+/* tutup body gallery */
+
+
+/* buka body gallery*/  
+  img-gal:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+/* tutup body gallery */
+
+/* buka body about*/
+.body-abo{
+    padding: 50px;
+    height: 744px;
+}
+/* tutup body about */
+
+/* buka body contact*/
+.body-con{
+    padding: 50px;
+    height: 744px;
+}
+.dalem{
+    text-align: center;
+}
+/* tutup body contact */
+
+/* buka footer */
+footer{
+    background-color: black;
+    padding: 20px;
+}
+
+.img-footer{
+    text-align: left;
+}
+
+.h3-footer{
+    text-align: center;
+    color: aliceblue;
+}
+
+.table-footer{
+    margin-left: auto;
+    margin-right: auto;
+}
+/* buka footer */
